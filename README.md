@@ -8,7 +8,7 @@ It need the package [sf](https://cran.r-project.org/package=sf).
 
 ## License
 
-hydronet_check_and_flip_-qgis-plugin_r is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 2 of the License, or (at your option) any later version.
+hydronet_check_and_flip_r is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 2 of the License, or (at your option) any later version.
 
 
 _Copyright (c) 2018 Jerónimo Carranza, ASTERIONAT_
